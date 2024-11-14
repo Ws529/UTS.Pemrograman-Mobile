@@ -1,0 +1,167 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <!-- Header Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:background="#E0E0E0"
+        android:padding="8dp">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_music_note" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="MusicAja"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-medium" />
+    </LinearLayout>
+
+    <!-- Tabs Section -->
+    <LinearLayout
+        android:id="@+id/tabsSection"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+        android:layout_below="@+id/headerSection"
+        android:paddingHorizontal="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Songs"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:layout_marginEnd="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Folders"
+            android:textColor="#9E9E9E"
+            android:textSize="16sp"
+            android:layout_marginEnd="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Albums"
+            android:textColor="#9E9E9E"
+            android:textSize="16sp"
+            android:layout_marginEnd="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:textColor="#9E9E9E"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <!-- Search Box -->
+    <EditText
+        android:id="@+id/searchBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tabsSection"
+        android:layout_margin="16dp"
+        android:hint="Song Title"
+        android:background="#F0F0F0"
+        android:padding="12dp"
+        android:drawablePadding="8dp"
+        android:drawableLeft="@drawable/ic_search"
+        android:inputType="text" />
+
+    <!-- Song List -->
+    <LinearLayout
+        android:id="@+id/songList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/searchBox"
+        android:orientation="vertical"
+        android:paddingHorizontal="16dp">
+
+        <!-- Sample Song Item -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingVertical="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Goose House Hikaru Nara"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Artist / Music"
+                android:textColor="#9E9E9E"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <!-- Add more song items similarly -->
+    </LinearLayout>
+
+    <!-- Now Playing Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="#E0E0E0"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_music_thumbnail"
+            android:layout_gravity="center_vertical" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="8dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Goose House Hikaru Nara"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:ellipsize="end"
+                android:maxLines="1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Artist"
+                android:textColor="#9E9E9E"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_pause"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="16dp" />
+    </LinearLayout>
+
+</RelativeLayout>
