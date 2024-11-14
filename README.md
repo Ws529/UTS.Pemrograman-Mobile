@@ -6,7 +6,7 @@
 
 
 
- *1* ![1](https://github.com/user-attachments/assets/17c40c39-c55f-41b9-9905-d9d96f3fa355)
+ *1*  ![1](https://github.com/user-attachments/assets/17c40c39-c55f-41b9-9905-d9d96f3fa355)
 
 Header (MusicAja)
 Di bagian atas, terdapat logo dan nama aplikasi, MusicAja, yang membantu pengguna mengenali aplikasi yang sedang mereka gunakan.
@@ -23,7 +23,7 @@ Konten di Bagian Bawah
 Di bagian bawah layar, terdapat informasi tambahan mengenai lagu yang dipilih, seperti cover album dan nama artis. Dalam cuplikan ini, terlihat contoh    cover dan nama Goose House Hikaru Nara.
 Bagian ini memungkinkan pengguna untuk melihat detail tambahan dari lagu atau album yang dipilih dan mungkin berfungsi sebagai area kontrol atau pemutaran.
 
-*2* ![2](https://github.com/user-attachments/assets/55355c83-4261-45a3-b42a-c12a3b0bdeec)
+*2*  ![2](https://github.com/user-attachments/assets/55355c83-4261-45a3-b42a-c12a3b0bdeec)
 
 Header (Folders dan Ikon Pencarian)
 Di bagian atas, terdapat judul halaman Folders, yang menunjukkan bahwa pengguna saat ini berada di bagian untuk melihat daftar folder yang berisi lagu-lagu atau file audio.
@@ -36,7 +36,7 @@ Pengaturan Tampilan Folder
 Daftar folder disusun secara vertikal, memudahkan pengguna untuk menggulir dan memilih folder yang mereka inginkan. Setiap folder ditandai dengan garis pemisah untuk memberikan struktur yang lebih jelas dan membantu pemisahan visual antara satu folder dengan folder lainnya.
 Teks nama folder menggunakan warna biru, yang menonjolkan link atau tautan. Ini menunjukkan bahwa folder dapat diklik atau ditekan untuk melihat konten di dalamnya.
 
-*3* ![3](https://github.com/user-attachments/assets/419fa948-c3fa-46ba-8f38-2787b7815395)
+*3*  ![3](https://github.com/user-attachments/assets/419fa948-c3fa-46ba-8f38-2787b7815395)
 
 Header (Albums)
 Di bagian atas layar, terdapat judul halaman Albums yang menunjukkan bahwa pengguna sedang berada di bagian untuk melihat daftar album.
@@ -51,7 +51,7 @@ Album ditampilkan secara vertikal, memungkinkan pengguna menggulir layar untuk m
 Setiap album ditata dengan jarak yang cukup dan garis pemisah untuk membedakan satu album dengan album lainnya.
 Pengguna dapat mengetuk album untuk melihat daftar lagu di dalamnya, berdasarkan ikon dan format daftar yang menunjukkan fungsi interaktif.
 
-*4* ![4](https://github.com/user-attachments/assets/202d9a6d-2bce-4071-bd9d-ad9b7346a1c5)
+*4*  ![4](https://github.com/user-attachments/assets/202d9a6d-2bce-4071-bd9d-ad9b7346a1c5)
 
 Header (Settings)
 Di bagian atas layar, terdapat judul halaman Settings yang ditulis dengan warna biru. Ini membantu pengguna untuk mengetahui bahwa mereka sedang berada di bagian pengaturan aplikasi.
@@ -64,7 +64,7 @@ Ketika sakelar ini diaktifkan, tampilan aplikasi kemungkinan akan berubah menjad
 Saat ini, sakelar berada di posisi nonaktif (off), menandakan bahwa mode Pure Black belum diaktifkan.
 
 
-*Dan Berikut tampilan mode putih nya*
+**Dan Berikut tampilan mode putih nya**
 
 ![1 1](https://github.com/user-attachments/assets/d818db73-3f3c-45f3-b3bd-2fc693e90c23)
 
