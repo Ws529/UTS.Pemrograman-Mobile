@@ -7,6 +7,7 @@
 
 
  *1* ![1](https://github.com/user-attachments/assets/17c40c39-c55f-41b9-9905-d9d96f3fa355)
+
 Header (MusicAja)
 Di bagian atas, terdapat logo dan nama aplikasi, MusicAja, yang membantu pengguna mengenali aplikasi yang sedang mereka gunakan.
 Menu navigasi di sebelah nama aplikasi memiliki beberapa pilihan: Songs, Folders, Albums, dan Settings. Pengguna dapat memilih salah satu dari opsi ini untuk mengakses bagian aplikasi yang berbeda.
@@ -23,6 +24,7 @@ Di bagian bawah layar, terdapat informasi tambahan mengenai lagu yang dipilih, s
 Bagian ini memungkinkan pengguna untuk melihat detail tambahan dari lagu atau album yang dipilih dan mungkin berfungsi sebagai area kontrol atau pemutaran.
 
 *2* ![2](https://github.com/user-attachments/assets/55355c83-4261-45a3-b42a-c12a3b0bdeec)
+
 Header (Folders dan Ikon Pencarian)
 Di bagian atas, terdapat judul halaman Folders, yang menunjukkan bahwa pengguna saat ini berada di bagian untuk melihat daftar folder yang berisi lagu-lagu atau file audio.
 Di samping judul, terdapat ikon pencarian. Ikon ini memungkinkan pengguna mencari folder tertentu di perangkat mereka. Fitur pencarian ini berguna jika terdapat banyak folder atau jika pengguna ingin menemukan folder dengan cepat.
@@ -35,6 +37,7 @@ Daftar folder disusun secara vertikal, memudahkan pengguna untuk menggulir dan m
 Teks nama folder menggunakan warna biru, yang menonjolkan link atau tautan. Ini menunjukkan bahwa folder dapat diklik atau ditekan untuk melihat konten di dalamnya.
 
 *3* ![3](https://github.com/user-attachments/assets/419fa948-c3fa-46ba-8f38-2787b7815395)
+
 Header (Albums)
 Di bagian atas layar, terdapat judul halaman Albums yang menunjukkan bahwa pengguna sedang berada di bagian untuk melihat daftar album.
 Judul ini menggunakan warna biru, yang menonjol dan memberikan penegasan mengenai bagian aplikasi yang sedang diakses.
@@ -49,6 +52,7 @@ Setiap album ditata dengan jarak yang cukup dan garis pemisah untuk membedakan s
 Pengguna dapat mengetuk album untuk melihat daftar lagu di dalamnya, berdasarkan ikon dan format daftar yang menunjukkan fungsi interaktif.
 
 *4* ![4](https://github.com/user-attachments/assets/202d9a6d-2bce-4071-bd9d-ad9b7346a1c5)
+
 Header (Settings)
 Di bagian atas layar, terdapat judul halaman Settings yang ditulis dengan warna biru. Ini membantu pengguna untuk mengetahui bahwa mereka sedang berada di bagian pengaturan aplikasi.
 Opsi Pengaturan Tema
