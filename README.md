@@ -4,7 +4,7 @@
 |Wawan Suwandi|312310457|TI.23.A.5|Pemrograman Mobile|
 
 
-
+**Tampilan Storyboard**
 
 
  *1*  ![Cuplikan layar 2024-11-15 104622](https://github.com/user-attachments/assets/4c65a7ac-e884-404e-92ac-8554ec9017d8)
