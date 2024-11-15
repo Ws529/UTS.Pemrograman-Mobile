@@ -71,10 +71,7 @@ Saat ini, sakelar berada di posisi nonaktif (off), menandakan bahwa mode Pure Bl
 
 **Dan Berikut tampilan mode putih nya**
 
-![Cuplikan layar 2024-11-15 105459](https://github.com/user-attachments/assets/a61ae8ed-58ca-41c8-ae27-40ce92836059) ![Cuplikan layar 2024-11-15 104814](https://github.com/user-attachments/assets/2d30f9be-1e2c-4bbb-be3b-ad9d6e6714ca)
-
-
-![Cuplikan layar 2024-11-15 104838](https://github.com/user-attachments/assets/7e8a8be8-8639-47da-b9ff-0456a7a90cf6) ![Cuplikan layar 2024-11-15 104854](https://github.com/user-attachments/assets/915cc193-7fdc-48f4-ac1c-98751312b9bf)
+![Cuplikan layar 2024-11-15 105459](https://github.com/user-attachments/assets/a61ae8ed-58ca-41c8-ae27-40ce92836059)  ![Cuplikan layar 2024-11-15 104814](https://github.com/user-attachments/assets/2d30f9be-1e2c-4bbb-be3b-ad9d6e6714ca)  ![Cuplikan layar 2024-11-15 104838](https://github.com/user-attachments/assets/7e8a8be8-8639-47da-b9ff-0456a7a90cf6)  ![Cuplikan layar 2024-11-15 104854](https://github.com/user-attachments/assets/915cc193-7fdc-48f4-ac1c-98751312b9bf)
 
 
 
