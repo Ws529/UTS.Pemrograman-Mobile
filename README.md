@@ -6,8 +6,7 @@
 
 
 
- *1* 
-![Cuplikan layar 2024-11-15 104622](https://github.com/user-attachments/assets/4c65a7ac-e884-404e-92ac-8554ec9017d8)
+ *1*  ![Cuplikan layar 2024-11-15 104622](https://github.com/user-attachments/assets/4c65a7ac-e884-404e-92ac-8554ec9017d8)
 
  
 Header (MusicAja)
@@ -25,8 +24,7 @@ Konten di Bagian Bawah
 Di bagian bawah layar, terdapat informasi tambahan mengenai lagu yang dipilih, seperti cover album dan nama artis. Dalam cuplikan ini, terlihat contoh    cover dan nama Goose House Hikaru Nara.
 Bagian ini memungkinkan pengguna untuk melihat detail tambahan dari lagu atau album yang dipilih dan mungkin berfungsi sebagai area kontrol atau pemutaran.
 
-*2*  
-![Cuplikan layar 2024-11-15 104642](https://github.com/user-attachments/assets/4606a5fa-6f0e-46a6-94f6-458ad6966695)
+*2*  ![Cuplikan layar 2024-11-15 104642](https://github.com/user-attachments/assets/4606a5fa-6f0e-46a6-94f6-458ad6966695)
 
 
 Header (Folders dan Ikon Pencarian)
@@ -40,8 +38,7 @@ Pengaturan Tampilan Folder
 Daftar folder disusun secara vertikal, memudahkan pengguna untuk menggulir dan memilih folder yang mereka inginkan. Setiap folder ditandai dengan garis pemisah untuk memberikan struktur yang lebih jelas dan membantu pemisahan visual antara satu folder dengan folder lainnya.
 Teks nama folder menggunakan warna biru, yang menonjolkan link atau tautan. Ini menunjukkan bahwa folder dapat diklik atau ditekan untuk melihat konten di dalamnya.
 
-*3* 
-![Cuplikan layar 2024-11-15 104704](https://github.com/user-attachments/assets/6c96433b-d116-45da-9f79-2e874937cabc)
+*3*  ![Cuplikan layar 2024-11-15 104704](https://github.com/user-attachments/assets/6c96433b-d116-45da-9f79-2e874937cabc)
 
 
 Header (Albums)
@@ -57,8 +54,7 @@ Album ditampilkan secara vertikal, memungkinkan pengguna menggulir layar untuk m
 Setiap album ditata dengan jarak yang cukup dan garis pemisah untuk membedakan satu album dengan album lainnya.
 Pengguna dapat mengetuk album untuk melihat daftar lagu di dalamnya, berdasarkan ikon dan format daftar yang menunjukkan fungsi interaktif.
 
-*4* 
-![Cuplikan layar 2024-11-15 104728](https://github.com/user-attachments/assets/99252856-a686-42b0-b2ce-64fc76ef2775)
+*4*  ![Cuplikan layar 2024-11-15 104728](https://github.com/user-attachments/assets/99252856-a686-42b0-b2ce-64fc76ef2775)
 
 
 Header (Settings)
